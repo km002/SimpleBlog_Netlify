@@ -13,8 +13,8 @@ timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://km002.github.io/
-root: /SimpleBlog/
+url: https://kwnsimple.netlify.app/
+root: 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
