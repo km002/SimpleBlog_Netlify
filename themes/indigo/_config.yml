@@ -24,9 +24,6 @@ menu:
   link:
     text:qiita
     url: https://qiita.com/kwns
-  link:
-  	text:twitter
-  	url:https://twitter.com/kwr448
 
 # 你的头像url
 avatar: https://f.easyuploader.app/eu-prd/upload/20210401225358_63316a42.jpg
@@ -38,7 +35,7 @@ brand: /img/brand.jpg
 favicon: /favicon.ico
 
 # email
-# email: hogefug@piyo.com
+ email: 
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -159,8 +156,8 @@ visit_counter:
 
 # 动态定义title
 title_change:
-  normal: 簡易ブログ
-  leave: 簡易ブログ
+  normal: SimpleBlog
+  leave: SimpleBlog
 
 # 设置为 true 发布后将使用 unpkg cdn 最新的主题样式
 # 如果想让你的自定义样式生效，把此项设为 false
