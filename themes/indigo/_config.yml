@@ -21,9 +21,12 @@ menu:
   github:
     url: https://github.com/km002
     target: _blank
-  qiita:
+  Qiita:
     text:
     url: https://qiita.com/kwns
+  Twitter:
+    text:
+    url: https://twitter.com/kwr448
 
 # 你的头像url
 avatar: https://f.easyuploader.app/eu-prd/upload/20210401225358_63316a42.jpg
