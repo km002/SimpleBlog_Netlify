@@ -6,6 +6,8 @@ tags:
 ## はじめに
 本ブログをGithub PagesからNetlifyに移転しました。理由はNetlifyとNetlify CMSを使用してみたくなったからです。
 
+移転元：https://km002.github.io/SimpleBlog/
+
 ## Netlifyに移転
 Githubにブログをそのまま上げるリポジトリを作成し、ブログをそのまま上げます。
 次にNetlifyで先程ブログを上げたリポジトリを指定し、デプロイコマンドに"Hexo generate"を設定すれば完了です。

@@ -3,7 +3,7 @@ title: Hexoのいろいろなテーマを試してみる
 date: 2020-08-03 23:40:36
 tags:
 ---
-静的サイトジェネレータHexoでは様々なテーマをかんたんに試すことができます。
+静的サイトジェネレータHexoには様々なテーマがあります。
 備忘録を兼ねて、以下に簡単な手順をまとめておきます。
 
 ## Hexoテーマ変更手順
@@ -15,13 +15,16 @@ tags:
 5. ブログをデプロイする
 
 ## デプロイ後テーマが反映されないとき
-ブラウザのキャッシュを削除すると表示されるかもしれません。
+ブラウザのキャッシュを削除すると表示されることがあります。
 一旦コマンドで hexo server と打ってローカルで表示を確認すると、キャッシュなしの表示を確認できます。
 
 ## 画像（順次追加）
 
-{% asset_img corporate.jpg corporate %}
-{% asset_img material.jpg material %}
-{% asset_img indigo2.jpg indigo %}
+- corporate
+![corporate](https://f.easyuploader.app/eu-prd/upload/20210402004100_6964306f.jpg)
 
-お読みいただきありがとうございました。
+- indigo
+![indigo](https://f.easyuploader.app/eu-prd/upload/20210402004115_6739586a.jpg)
+
+- material
+![material](https://f.easyuploader.app/eu-prd/upload/20210402004059_516c6e52.jpg)
