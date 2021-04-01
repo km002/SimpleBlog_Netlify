@@ -21,8 +21,8 @@ menu:
   github:
     url: https://github.com/km002
     target: _blank
-  link:
-    text:qiita
+  qiita:
+    text:
     url: https://qiita.com/kwns
 
 # 你的头像url
