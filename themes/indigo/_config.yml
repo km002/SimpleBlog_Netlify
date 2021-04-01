@@ -37,8 +37,8 @@ favicon: /favicon.ico
 # email
 email:furude3@yahoo.co.jp
 
-# 设置 Android L Chrome 浏览器状态栏颜色
-color: '3F51B5'
+# Android L Chrome ステータスバーの色
+color: '#3F51B5'
 
 # 页面标题
 tags_title: Tags
