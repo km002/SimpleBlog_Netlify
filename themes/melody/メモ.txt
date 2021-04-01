@@ -1,0 +1,13 @@
+公式ドキュメント
+https://molunerfinn.com/hexo-theme-melody-doc/quick-start.html#configuration
+
+Hexoバージョン<5.0
+スムーズに更新するにtheme-melodyは、データファイル機能を使用します。
+
+テーマのデフォルト設定ファイル_config.ymlをhexo作業フォルダーにコピーするのが一般的ですsource/_data/melody.yml。フォルダーが存在しない場合は作成します。
+
+警告
+
+を作成するmelody.ymlと、テーマのデフォルト設定が置き換えられます_config.yml（マージではなく、置き換えます）。
+
+以降はtheme-melodyだけでスムーズに更新できますgit pull。
