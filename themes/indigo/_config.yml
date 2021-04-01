@@ -22,8 +22,11 @@ menu:
     url: https://github.com/km002
     target: _blank
   link:
-    text: 
+    text:qiita
     url: https://qiita.com/kwns
+  link:
+  	text:twitter
+  	url:https://twitter.com/kwr448
 
 # 你的头像url
 avatar: https://f.easyuploader.app/eu-prd/upload/20210401225358_63316a42.jpg
@@ -35,7 +38,7 @@ brand: /img/brand.jpg
 favicon: /favicon.ico
 
 # email
-email: hogefug@piyo.com
+# email: hogefug@piyo.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
